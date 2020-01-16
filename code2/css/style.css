@@ -1,0 +1,23 @@
+body{
+	margin-left: 200px;
+}
+
+svg {
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+
+p
+{
+	color: blue;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+rect {
+   	stroke: white;
+	fill: red;
+}
+

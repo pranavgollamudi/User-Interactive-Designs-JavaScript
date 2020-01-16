@@ -1,0 +1,34 @@
+body{
+	margin-left: 200px;
+}
+
+svg {
+	border-width: 2px;
+	border-style: solid;
+	border-color: blue;
+	background-color: #bd9b9b;
+}
+
+.header
+{
+	font-size: 20px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+rect {
+   	stroke: white;
+	    fill: #dce824;
+}
+
+p{
+	font-size: 32px;
+}
+
+.onHover
+{
+	stroke: red;
+	stroke-width: 2px;
+    fill-opacity: 0.8;
+}
